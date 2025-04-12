@@ -94,7 +94,7 @@ export default function Game() {
     if (move > 0) {
       description = 'В ход №' + move;
     } else {
-      description = 'В начало';
+      description = 'В началоооо';
     }
     return (
       <li key={move}>
